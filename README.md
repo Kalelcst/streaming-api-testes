@@ -1,6 +1,6 @@
 # Streaming API Testes
 
-![CI](https://github.com/SEU-USUARIO/streaming-api-testes/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Kalelcst/streaming-api-testes/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
 ![Pytest](https://img.shields.io/badge/tested%20with-Pytest-0A9EDC)
